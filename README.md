@@ -23,4 +23,3 @@ My favorite earth science topics consist of:
 
 # Licensing
 This repository uses MIT licesning because it is a simple, permissive license that allows users to 'copy, modify, redistribute, and sell the software without many restrictions.'
-
